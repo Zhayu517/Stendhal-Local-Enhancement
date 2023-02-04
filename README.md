@@ -1,3 +1,12 @@
+## Stendhal Local Enhancement
+
+Features added:
+- new cheating commands: teleportation, resurrection, invincibility, auto-following, auto-pathfinding
+- Expanded maps: added two new accessible scenes
+- Modified attributes: life recovery of food, attack power of weapons, defense power of clothing
+
+## Stenhal Game
+
 [![Stendhal Tower](https://arianne-project.org/screens/stendhal/THM_MagicTower98small.jpeg)](https://arianne-project.org/screens/stendhal/MagicTower98.jpg)
 [![Achievements](https://arianne-project.org/screens/stendhal/THM_Achievement_Stendhal98.jpg)](https://arianne-project.org/screens/stendhal/Achievement_Stendhal98.jpg)
 [![Party](https://arianne-project.org/screens/stendhal/THM_raid20110105.jpg)](https://arianne-project.org/screens/stendhal/raid20110105.jpg)&nbsp;&nbsp;&nbsp;[More Images >](https://stendhalgame.org/media/screenshots.html)
